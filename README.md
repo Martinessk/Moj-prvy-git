@@ -1,4 +1,4 @@
-# Moj-prvy-git
+# Toto je moj prvy readme v mojom gite
 
 Ucim sa gitovat na git hube
 
