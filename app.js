@@ -1,1 +1,3 @@
-console.log();
+function loggedIn() {
+  return true;
+}
